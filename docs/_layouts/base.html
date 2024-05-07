@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: "en" }}">
+{%- include head.html -%}
+<body>
+  {%- include header.html -%}
+  <!-- <main id="content" class="main-content" role="main"> --->
+    <script src="https://cdn.jsdelivr.net/combine/npm/tone@14.7.58,npm/@magenta/music@1.23.1/es6/core.js,npm/focus-visible@5,npm/html-midi-player@1.5.0"></script>
+    <main id="content" class="page-content main-content" role="main" aria-label="Content">
+      <div class="wrapper">
+        {{ content }}
+      </div>
+    </main>
+    
+    {%- include footer.html -%}
+    
+  </body>
+  
+  </html>
+  
