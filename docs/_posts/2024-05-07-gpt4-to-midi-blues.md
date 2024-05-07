@@ -120,8 +120,8 @@ This should evoke a bluesy and melodic feeling that should match perfectly with 
 
 <details markdown="1"><summary>Files</summary>
 
-- All output files [out/blues/](https://github.com/isakcodes/GPT-4-To-MIDI/tree/7da2bee8d5d7d6a104eeb4827b712e2dd8e3314a/out/blues)
-- [Terminal log file](https://raw.githubusercontent.com/isakcodes/GPT-4-To-MIDI/my_experiments/out/blues/log.txt)
+- All output files [out/blues/](https://github.com/isakcodes/GPT-4-To-MIDI/tree/993ba68a0ef40b6342f3ba723360ec5f108b2003/out/blues)
+- [Terminal log file](https://raw.githubusercontent.com/isakcodes/GPT-4-To-MIDI/tree/993ba68a0ef40b6342f3ba723360ec5f108b2003/out/blues/log.txt)
 
 </details>
 
