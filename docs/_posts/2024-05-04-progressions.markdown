@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Chordinator chord progressions"
+title:  "Chordinator sample chord progressions"
 date:   2024-05-04 22:09:51 +0200
 categories: chordinator
 ---
